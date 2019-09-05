@@ -3,7 +3,7 @@
 
 ## Установка
 * Скачиваем папку __"anti-dzen"__
-* В браузере Google Chrome переходи по адресу (http://chrome://extensions/)
+* В браузере Google Chrome переходим в [chrome-extensions](chrome://extensions/)
 * Нажимаем кнопку __"Загрузить распакованное расширение"__
 * Загружаем нашу папку
 * Готово
