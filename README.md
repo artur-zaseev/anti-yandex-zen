@@ -1,3 +1,5 @@
+<p align="center"><img src="./images/image.png" width="200" /></p>
+
 # anti-yandex-zen
 Блокировщик Яндекс Дзен для Google Chrome.  
 Автоматически удаляет блок Яндекс Дзена с главной страницы Яндекса.
